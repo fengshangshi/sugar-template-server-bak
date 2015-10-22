@@ -1,0 +1,13 @@
+{"level":"error","message":"test","timestamp":"2015-10-21T10:39:40.856Z"}
+{"level":"error","message":"sugarjs未捕获的错误 TypeError: undefined is not a function\n    at Object.<anonymous> (/Users/fengshangshi/Documents/node/sugar/sugar-template-server/lib/server.js:72:20)\n    at Module._compile (module.js:460:26)\n    at Object.Module._extensions..js (module.js:478:10)\n    at Module.load (module.js:355:32)\n    at Function.Module._load (module.js:310:12)\n    at Module.require (module.js:365:17)\n    at require (module.js:384:17)\n    at Object.<anonymous> (/Users/fengshangshi/Documents/node/sugar/sugar-template-server/index.js:45:17)\n    at Module._compile (module.js:460:26)\n    at Object.Module._extensions..js (module.js:478:10)","timestamp":"2015-10-21T11:35:49.562Z"}
+{"level":"error","message":"sugarjs 已经退出","timestamp":"2015-10-21T11:35:49.567Z"}
+{"level":"info","message":"sugarjs启动成功，工作在端口8090","timestamp":"2015-10-21T11:36:39.434Z"}
+{"level":"error","message":"sugarjs 被强制退出","timestamp":"2015-10-21T11:37:11.005Z"}
+{"level":"info","message":"sugarjs启动成功，工作端口8090","timestamp":"2015-10-21T11:37:39.974Z"}
+{"level":"error","message":"sugarjs 被强制退出","timestamp":"2015-10-21T11:38:46.772Z"}
+{"level":"info","message":"sugarjs启动成功，工作端口8090","timestamp":"2015-10-21T11:38:52.914Z"}
+{"level":"error","message":"sugarjs监听到退出信号，退出成功","timestamp":"2015-10-21T11:38:54.109Z"}
+{"level":"info","message":"sugarjs启动成功，工作端口8090","timestamp":"2015-10-21T11:39:20.904Z"}
+{"level":"error","message":"sugarjs收到退出信号，退出成功","timestamp":"2015-10-21T11:39:21.844Z"}
+{"level":"info","message":"sugarjs启动成功，工作端口8090","timestamp":"2015-10-21T13:25:33.623Z"}
+{"level":"error","message":"sugarjs收到退出信号，退出成功","timestamp":"2015-10-21T13:29:24.068Z"}

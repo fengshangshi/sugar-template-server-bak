@@ -1,0 +1,23 @@
+{
+	"name": "sugarjs",
+	"version": "0.1.0",
+	"author": "fengshangshi",
+
+	"framework": {
+		"port": 8090,
+		"support": "asp fe",
+		"server": "sugarjs" 
+	},
+
+	"delay": 10,
+
+	"dirs": {
+		"appDir": "/app",
+		"logDir": "/log",
+		"dataDir": "/data",
+		"confDir": "/conf",
+		"libDir": "/lib",
+		"viewDir": "/view",
+		"staticDir": "/static"
+	}
+}

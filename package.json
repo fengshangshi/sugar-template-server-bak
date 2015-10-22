@@ -1,0 +1,46 @@
+{
+  "name": "sugar",
+  "version": "0.1.0",
+  "description": "SugarJS是基于Node和Express的Web解决方案，让前端开发者更容易进入Server的开发，只关注具体的业务逻辑。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengshangshi/sugar-template-server.git"
+  },
+  "keywords": [
+    "Node",
+    "Web",
+    "Server"
+  ],
+  "author": "fengshangshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengshangshi/sugar-template-server/issues"
+  },
+  "homepage": "https://github.com/fengshangshi/sugar-template-server#readme",
+  "dependencies": {
+    "basic-auth": "^1.0.3",
+    "body-parser": "^1.14.1",
+    "connect-header": "0.0.5",
+    "connect-timeout": "^1.7.0",
+    "cookie-parser": "^1.4.0",
+    "cookie-session": "^1.2.0",
+    "csurf": "^1.8.3",
+    "express": "^4.13.3",
+    "file-stream-rotator": "0.0.6",
+    "hbs": "^3.1.1",
+    "method-override": "^2.3.5",
+    "moment": "^2.10.6",
+    "mongoose": "^4.1.12",
+    "morgan": "^1.6.1",
+    "rd": "0.0.2",
+    "serve-favicon": "^2.3.0",
+    "sugar-assembler": "0.0.2",
+    "sugar-loader": "^0.1.12",
+    "underscore": "^1.8.3",
+    "winston": "^1.1.1"
+  }
+}
