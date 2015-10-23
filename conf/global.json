@@ -1,12 +1,12 @@
 {
-	"name": "sugarjs",
+	"name": "ssugar",
 	"version": "0.1.0",
 	"author": "fengshangshi",
 
 	"framework": {
 		"port": 8090,
-		"support": "asp fe",
-		"server": "sugarjs" 
+		"support": "SSugar",
+		"server": "SWS" 
 	},
 
 	"delay": 10,

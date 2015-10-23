@@ -10,3 +10,10 @@
 {"level":"error","message":"sugarjs收到退出信号，退出成功","timestamp":"2015-10-22T02:35:00.358Z"}
 {"level":"info","message":"sugarjs启动成功，工作端口8090","timestamp":"2015-10-22T02:35:01.648Z"}
 {"level":"error","message":"sugarjs收到退出信号，退出成功","timestamp":"2015-10-22T02:37:19.664Z"}
+{"level":"info","message":"ssugar启动成功，工作端口8090","timestamp":"2015-10-22T08:14:55.964Z"}
+{"level":"error","message":"ssugar收到退出信号，退出成功","timestamp":"2015-10-22T08:15:42.489Z"}
+{"level":"info","message":"ssugar启动成功，工作端口8090","timestamp":"2015-10-22T08:15:56.458Z"}
+{"level":"error","message":"ssugar收到退出信号，退出成功","timestamp":"2015-10-22T08:16:11.326Z"}
+{"level":"info","message":"ssugar启动成功，工作端口8090","timestamp":"2015-10-22T08:16:25.597Z"}
+{"level":"error","message":"ssugar收到退出信号，退出成功","timestamp":"2015-10-22T08:16:58.065Z"}
+{"level":"info","message":"ssugar启动成功，工作端口8090","timestamp":"2015-10-22T08:17:17.482Z"}
