@@ -5,7 +5,8 @@ exports.config = {
 	 },
 	 
 	post: {
-		url: '/home'
+		url: '/home',
+		auto: false
 	}
 };
 
