@@ -1,13 +1,4 @@
-exports.config = {
-	get: {
-		url: '/home',
-		auto: true
-	 },
-	 
-	post: {
-		url: '/home'
-	}
-};
+exports.config = {};
 
 exports.get = function(req, res) {
 	res.send('Hollo, S(uper) Sugar!');
